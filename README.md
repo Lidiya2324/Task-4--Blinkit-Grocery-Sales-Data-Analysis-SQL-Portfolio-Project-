@@ -19,7 +19,6 @@ The project includes:
 - SQL Server  
 - MySQL-style SQL logic  
 - Excel (Data Source)  
-- GitHub (Version Control & Documentation)
 
 ---
 
