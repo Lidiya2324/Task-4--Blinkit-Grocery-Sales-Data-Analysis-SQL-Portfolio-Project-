@@ -191,7 +191,9 @@ Blinkit-SQL-Project/
 1. Import dataset into SQL Server  
 2. Run the SQL script  
 3. Execute analysis queries  
-4. Review insights  
+4. Review insights
+
+Note: Some fields in the original dataset contain missing (NULL) values. These were retained because they did not affect the objectives of this SQL analysis.
 
 ---
 
