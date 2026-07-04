@@ -128,6 +128,7 @@ JOIN outlet_data o
 ON b.Outlet_Identifier = o.Outlet_Identifier;
 
 ---
+Note: Some fields in the original dataset contain missing (NULL) values. These were retained because they did not affect the objectives of this SQL analysis.
 
 ## 📊 Advanced SQL Features Used
 
@@ -193,7 +194,6 @@ Blinkit-SQL-Project/
 3. Execute analysis queries  
 4. Review insights
 
-Note: Some fields in the original dataset contain missing (NULL) values. These were retained because they did not affect the objectives of this SQL analysis.
 
 ---
 
